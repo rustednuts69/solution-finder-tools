@@ -33,12 +33,3 @@ This application includes the OpenJDK provided by Adoptium. The JDK is bundled t
 The Java Development Kit (JDK) bundled with this application is provided by Adoptium under the [GNU General Public License, version 2, with the Classpath Exception (GPLv2+CPE)](https://adoptium.net/about/licenses/).
 
 For more details, see the LICENSE and NOTICE files included in the `java` directory of this repository.
-
-## Building from Source
-
-To build the application from source, follow these steps:
-
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/rustednuts69/solution-finder-tools.git
-   cd solution-finder-tools
