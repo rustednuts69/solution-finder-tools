@@ -15,12 +15,12 @@ Solution Finder Tools is a GUI application designed to make [Solution Finder](ht
 ## Installation
 
 1. **Download**: Download the latest release from the [releases page](https://github.com/rustednuts69/solution-finder-tools/releases).
-2. **Extract**: Extract the downloaded `.zip` file.
-3. **Run**: Open the `Solution Finder.app` from the extracted folder.
+2. **Install**: Open the `.dmg` file and drag the included `.app` file into the Applications folder shortcut.
+3. **Run**: Open the `Solution Finder Tools.app` from Launchpad, Spotlight, or the Applications folder.
 
 ## Usage
 
-1. **Launch the App**: Open `Solution Finder.app`.
+1. **Launch the App**: Open `Solution Finder Tools.app`.
 2. **Enter Command**: When prompted, enter the command you wish to execute.
 3. **View Results**: The results will be displayed in a generated HTML file, opened automatically in your default web browser.
 
